@@ -1,0 +1,31 @@
+.todo-item-container{
+    list-style-type: none;
+    margin:0px;
+    padding:0px;
+}
+
+.checked {
+    text-decoration: line-through;
+  }
+.checkbox-input {
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.label-container {
+    
+    width: 100%;
+    border:2px solid pink;
+    border-radius: 4px;
+  }
+  .checkbox-label {
+    width: 80%;
+    margin: 0px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+  }
+  .delete-icon-container {
+    text-align: right;
+    width: 18%;
+  }
